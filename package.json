@@ -3,7 +3,7 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
-        "build": "composer i && vite build"
+        "build": "composer install && vite build"
     },
     "devDependencies": {
         "@inertiajs/vue3": "^1.0.0",
